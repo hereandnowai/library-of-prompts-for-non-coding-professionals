@@ -1,0 +1,6 @@
+social-media-content
+node_modules
+.DS_Store
+.env
+.next
+.vscode
